@@ -1,0 +1,32 @@
+CSE 111 Proposal for a Student Chosen Program
+
+1. What is the title of your program?
+
+    Snake Game Program
+
+2. What real-world problem will your program address or help to solve?
+
+    My program will be simple: a snake game to play when you get bored. The real-world problem it will solve is boredom.
+
+3. What will you learn from developing this program?
+
+    I plan on using the pygame library in order to pull off this project, meaning I will have to learn
+    how to use pygame as well as the knowledge I have gained throughout the semester such as knowledge of loops, functions, etc.
+
+4. What Python modules will your program use?
+
+    pygame, time, random
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+    I will separate my Python program into multiple functions to handle the game loop, such as a function
+    to show/update the score, a function that triggers upon game over, a function that triggers when the game is started, etc. 
+
+6. Will you write test functions to test at least two of your program functions?
+
+    I will write test functions for my show_score function as well as my game_over functions to test
+    that they will execute as intended and return the desired results. I can also test my code by
+    getting testers to play it and see if there is any bugs when it is running or if there is an
+    unexpected input.
+
